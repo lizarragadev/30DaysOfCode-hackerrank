@@ -13,6 +13,14 @@ fun read(): String {
     return _tokenizer.nextToken()
 }
 fun readInt() = read().toInt()
+fun readIntWithRange(from: Int, to: Int): Int{
+    val n = read().toInt()
+    return if(n in from..to) {
+        n
+    } else {
+        -1
+    }
+}
 fun readDouble() = read().toDouble()
 fun readLong() = read().toLong()
 fun readStrings(n: Int) = List(n) { read() }

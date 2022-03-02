@@ -8,7 +8,7 @@ public class Day04_ClassVsInstance {
             for(int i = 1; i <= t; i++) {
                 int age = in.nextInt();
                 if(age >= -5 && age <= 30) {
-                    Person p = new Person(age);
+                    Person1 p = new Person1(age);
                     p.amIOld();
                     for (int j = 0; j < 3; j++) {
                         p.yearPasses();
@@ -21,9 +21,9 @@ public class Day04_ClassVsInstance {
     }
 }
 
-class Person {
+class Person1 {
     int age;
-    public Person(int initialAge) {
+    public Person1(int initialAge) {
         if(initialAge > 0) {
             this.age = initialAge;
         } else {

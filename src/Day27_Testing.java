@@ -71,7 +71,32 @@ public class Day27_Testing {
         TestWithExactlyTwoDifferentMinimums();
         System.out.println("OK");
     }
+
+    static class TestDataEmptyArray {
+        public static int[] get_array() {
+            return new int[] {};
+        }
+    }
+
+    static class TestDataUniqueValues {
+        public static int[] get_array() {
+            return new int[] {0, 1};
+        }
+
+        public static int get_expected_result() {
+            return 0;
+        }
+    }
+
+    static class TestDataExactlyTwoDifferentMinimums {
+        public static int[] get_array() {
+            return new int[] {1, 1, 2};
+        }
+
+        public static int get_expected_result() {
+            return 0;
+        }
+    }
+
 }
-
-
 

@@ -1,11 +1,15 @@
-fun main(args: Array<String>) {
-    val N = readLine()!!.trim().toInt()
-
+fun main() {
+    val N = readInt()
+    val list = mutableListOf<String>()
     for (NItr in 1..N) {
-        val first_multiple_input = readLine()!!.trimEnd().split(" ")
-
-        val firstName = first_multiple_input[0]
-
-        val emailID = first_multiple_input[1]
+        val firstName = read()
+        val emailID = read()
+        if(emailID.split("@")[1] == "gmail.com") {
+            list.add(firstName)
+        }
+    }
+    list.sort()
+    list.forEach {
+        println(it)
     }
 }

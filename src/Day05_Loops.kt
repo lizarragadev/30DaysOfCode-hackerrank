@@ -1,5 +1,13 @@
 import java.io.PrintWriter
 
+/**
+ * Tutorials > 30 Days of Code > Day 5: Loops
+ *
+ * https://www.hackerrank.com/challenges/30-loops/
+ * @author lizarragadev
+ *
+ */
+
 fun main(args: Array<String>) {
     _writer.day05()
     _writer.flush()

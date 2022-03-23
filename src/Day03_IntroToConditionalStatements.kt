@@ -1,5 +1,13 @@
 import java.io.PrintWriter
 
+/**
+ * Tutorials > 30 Days of Code > Day 3: Intro to Conditional Statements
+ *
+ * https://www.hackerrank.com/challenges/30-conditional-statements/
+ * @author lizarragadev
+ *
+ */
+
 fun main(args: Array<String>) {
     _writer.day03()
     _writer.flush()

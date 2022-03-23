@@ -1,8 +1,14 @@
-import java.io.*;
 import java.util.*;
 
+/**
+ * Tutorials > 30 Days of Code > Day 18: Queues  and Stacks
+ *
+ * https://www.hackerrank.com/challenges/30-queues-stacks/
+ * @author lizarragadev
+ *
+ */
+
 public class Day18_QueuesAndStacks {
-    // Write your code here.
     Stack<Character> stack = new Stack<Character>();
     Queue<Character> queue = new LinkedList<Character>();
 

@@ -1,5 +1,13 @@
 import java.util.*;
 
+/**
+ * Tutorials > 30 Days of Code > Day 15: LinkedList
+ *
+ * https://www.hackerrank.com/challenges/30-linked-list/
+ * @author lizarragadev
+ *
+ */
+
 class Node {
     int data;
     Node next;

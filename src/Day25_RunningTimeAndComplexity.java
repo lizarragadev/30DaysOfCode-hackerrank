@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 25: Running Time and Complexity
+ *
+ * https://www.hackerrank.com/challenges/30-running-time-and-complexity/
+ * @author lizarragadev
+ *
+ */
+
 public class Day25_RunningTimeAndComplexity {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,13 @@
 import java.util.*;
-import java.io.*;
+
+/**
+ * Tutorials > 30 Days of Code > Day 22: Binary Search Trees
+ *
+ * https://www.hackerrank.com/challenges/30-binary-search-trees/
+ * @author lizarragadev
+ *
+ */
+
 class Node2{
     Node2 left,right;
     int data;

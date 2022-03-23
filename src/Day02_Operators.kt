@@ -1,6 +1,14 @@
 import java.io.PrintWriter
 import kotlin.math.roundToInt
 
+/**
+ * Tutorials > 30 Days of Code > Day 2: Operators
+ *
+ * https://www.hackerrank.com/challenges/30-operators/
+ * @author lizarragadev
+ *
+ */
+
 fun main(args: Array<String>) {
     _writer.day02()
     _writer.flush()

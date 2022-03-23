@@ -1,5 +1,13 @@
 import java.util.*;
 
+/**
+ * Tutorials > 30 Days of Code > Day 27: Testing
+ *
+ * https://www.hackerrank.com/challenges/30-testing/
+ * @author lizarragadev
+ *
+ */
+
 public class Day27_Testing {
 
     public static int minimum_index(int[] seq) {

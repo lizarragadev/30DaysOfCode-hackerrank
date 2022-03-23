@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 16: Exceptions String to Integer
+ *
+ * https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/
+ * @author lizarragadev
+ *
+ */
+
 class Day16_ExceptionsStringToInteger {
 
     public static void main(String []argh){

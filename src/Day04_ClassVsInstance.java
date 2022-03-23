@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 4: Class vs Instance
+ *
+ * https://www.hackerrank.com/challenges/30-class-vs-instance/
+ * @author lizarragadev
+ *
+ */
+
 public class Day04_ClassVsInstance {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);

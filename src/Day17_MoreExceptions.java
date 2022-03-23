@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 17: More Exceptions
+ *
+ * https://www.hackerrank.com/challenges/30-more-exceptions/
+ * @author lizarragadev
+ *
+ */
+
 class Calculator {
     int power(int n, int p) throws Exception {
         if(n >= 0 && p >= 0) {

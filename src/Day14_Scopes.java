@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 14: Scopes
+ *
+ * https://www.hackerrank.com/challenges/30-scope/
+ * @author lizarragadev
+ *
+ */
+
 public class Day14_Scopes {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

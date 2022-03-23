@@ -1,5 +1,13 @@
 import java.io.PrintWriter
 
+/**
+ * Tutorials > 30 Days of Code > Day 7: Arrays
+ *
+ * https://www.hackerrank.com/challenges/30-arrays/
+ * @author lizarragadev
+ *
+ */
+
 val a = mutableListOf<Int>()
 fun main(args: Array<String>) {
     _writer.day07()

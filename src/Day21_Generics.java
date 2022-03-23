@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 21: Generics
+ *
+ * https://www.hackerrank.com/challenges/30-generics/
+ * @author lizarragadev
+ *
+ */
+
 class Printer <T> {
     void printArray(T arr[]) {
         for (int i = 0; i < arr.length; i++) {

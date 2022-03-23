@@ -1,5 +1,13 @@
 import java.io.PrintWriter
 
+/**
+ * Tutorials > 30 Days of Code > Day 11: 2D Arrays
+ *
+ * https://www.hackerrank.com/challenges/30-2d-arrays/
+ * @author lizarragadev
+ *
+ */
+
 fun main(args: Array<String>) {
     _writer.day11()
     _writer.flush()

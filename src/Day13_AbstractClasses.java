@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 13: Abstract Classes
+ *
+ * https://www.hackerrank.com/challenges/30-abstract-classes/
+ * @author lizarragadev
+ *
+ */
+
 public class Day13_AbstractClasses {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -2,6 +2,14 @@ import java.io.PrintWriter
 import java.util.*
 import kotlin.math.pow
 
+/**
+ * Tutorials > 30 Days of Code > Day 8: Dictionaries and Maps
+ *
+ * https://www.hackerrank.com/challenges/30-dictionaries-and-maps
+ * @author lizarragadev
+ *
+ */
+
 val map = mutableMapOf<String, String>()
 
 fun main(args: Array<String>) {

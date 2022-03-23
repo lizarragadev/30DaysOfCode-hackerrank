@@ -1,5 +1,13 @@
 import java.util.*;
 
+/**
+ * Tutorials > 30 Days of Code > Day 12: Inheritance
+ *
+ * https://www.hackerrank.com/challenges/30-inheritance/
+ * @author lizarragadev
+ *
+ */
+
 public class Day12_Inheritance {
 
     public static void main(String[] args) {

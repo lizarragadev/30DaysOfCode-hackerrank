@@ -1,5 +1,13 @@
 import java.util.*;
 
+/**
+ * Tutorials > 30 Days of Code > Day 24: More Linked Lists
+ *
+ * https://www.hackerrank.com/challenges/30-linked-list-deletion/
+ * @author lizarragadev
+ *
+ */
+
 class Node4{
     int data;
     Node4 next;

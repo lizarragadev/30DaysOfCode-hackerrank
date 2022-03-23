@@ -1,3 +1,11 @@
+/**
+ * Tutorials > 30 Days of Code > Day 20: Sorting
+ *
+ * https://www.hackerrank.com/challenges/30-sorting/
+ * @author lizarragadev
+ *
+ */
+
 fun main() {
     val n = readInt()
     val a = readInts(n).toMutableList()

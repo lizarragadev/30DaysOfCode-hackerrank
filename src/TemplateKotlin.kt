@@ -1,6 +1,13 @@
 import java.io.PrintWriter
 import java.util.*
 
+/**
+ * Template Kotlin competitive programming
+ *
+ * @author lizarragadev
+ *
+ */
+
 @JvmField val INPUT = System.`in`
 @JvmField val OUTPUT = System.out
 

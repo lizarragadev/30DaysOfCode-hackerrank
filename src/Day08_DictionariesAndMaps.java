@@ -2,6 +2,14 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 8: Dictionaries and Maps
+ *
+ * https://www.hackerrank.com/challenges/30-dictionaries-and-maps
+ * @author lizarragadev
+ *
+ */
+
 public class Day08_DictionariesAndMaps {
     public static void main(String []argh){
 

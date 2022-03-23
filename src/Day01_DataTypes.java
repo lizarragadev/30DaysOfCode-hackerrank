@@ -1,5 +1,13 @@
 import java.util.*;
 
+/**
+ * Tutorials > 30 Days of Code > Day 1: Data Types
+ *
+ * https://www.hackerrank.com/challenges/30-data-types/
+ * @author lizarragadev
+ *
+ */
+
 public class Day01_DataTypes {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,14 @@
 import java.io.PrintWriter
 import kotlin.math.pow
 
+/**
+ * Tutorials > 30 Days of Code > Day 10: Binary Numbers
+ *
+ * https://www.hackerrank.com/challenges/30-binary-numbers/
+ * @author lizarragadev
+ *
+ */
+
 fun main(args: Array<String>) {
     _writer.day10()
     _writer.flush()

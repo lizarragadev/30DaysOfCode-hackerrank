@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * Tutorials > 30 Days of Code > Day 19: Interfaces
+ *
+ * https://www.hackerrank.com/challenges/30-interfaces/
+ * @author lizarragadev
+ *
+ */
+
 class CalculatorImp implements AdvancedArithmetic {
     @Override
     public int divisorSum(int n) {

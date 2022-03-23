@@ -1,3 +1,12 @@
+
+/**
+ * Tutorials > 30 Days of Code > Day 28: RegEx, Patterns and Intro to Databases
+ *
+ * https://www.hackerrank.com/challenges/30-regex-patterns/
+ * @author lizarragadev
+ *
+ */
+
 fun main() {
     val N = readInt()
     val list = mutableListOf<String>()

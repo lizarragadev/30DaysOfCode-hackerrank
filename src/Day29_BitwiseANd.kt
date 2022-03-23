@@ -1,5 +1,13 @@
 import kotlin.io.*
 
+/**
+ * Tutorials > 30 Days of Code > Day 29: Bitwise AND
+ *
+ * https://www.hackerrank.com/challenges/30-bitwise-and/
+ * @author lizarragadev
+ *
+ */
+
 fun bitwiseAnd(N: Int, K: Int): Int {
     var max = 0
     for (i in 1..N) {
